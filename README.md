@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-![image](https://github.com/user-attachments/assets/bda6ddc0-117b-446d-a467-0990a150d0a4)
+
 
 
 <!--
