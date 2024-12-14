@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=uzmashxxxikh&amp;layout=donut&amp;theme=material-palenight&amp;title_color=FFF&amp;hide=html,css
+  <img  src=" https://github-readme-stats.vercel.app/api/top-langs/?username=uzmashxxxikh&amp;layout=donut&amp;theme=material-palenight&amp;title_color=FFF&amp;hide=html,CSS"  alt="Github Stats Card" class="w-full h-auto rounded-lg shadow-md" loading="lazy">
 
 
 <!--
