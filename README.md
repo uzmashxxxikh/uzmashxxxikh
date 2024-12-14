@@ -3,7 +3,7 @@
 Software Developer | Toronto, ON
 
 
-# About Me ![image](https://github.com/user-attachments/assets/b64f9e38-8d15-4c4d-9fe6-ec9713442326)
+# About Me![image](https://github.com/user-attachments/assets/b64f9e38-8d15-4c4d-9fe6-ec9713442326)
 
 Highly motivated Software Developer with hands-on experience in crafting applications and websites....
 
